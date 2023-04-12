@@ -1,0 +1,1 @@
+C:\Projeto-Estudo\controle_financeiro_maui\ControleFinanceiro\ControleFinanceiro\ControleFinanceiro.csproj;x64
